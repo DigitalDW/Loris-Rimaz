@@ -1,3 +1,3 @@
 # Loris Rimaz
 
-Cette page me sert de présentation et de CV.
+[Cette page](https://digitaldw.github.io/Loris-Rimaz/) me sert de présentation et de CV.
